@@ -1,6 +1,8 @@
 # smoothHR
 Instantaneous geometric rates via Generalized Linear Models Use smoothHR With (In) R Software
 
+https://www.youtube.com/watch?v=jJFTMqS7tBE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
